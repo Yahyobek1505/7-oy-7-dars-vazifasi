@@ -1,0 +1,49 @@
+{
+  "en": {
+    "translation": {
+      "home": "Home",
+      "about": "About",
+      "products": "Products",
+      "cart": "Cart",
+      "title": "We are changing the way people shop",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore repellat explicabo enim soluta temporibus asperiores aut obcaecati perferendis porro nobis",
+      "button": "Our products",
+       "selected": "Featured Products",
+       "comfy": "comfy",
+       "love": "We love",
+       "aboutDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quae quam blanditiis vitae, dolor non eveniet ipsum voluptatibus, quia optio aut! Perferendis ipsa cumque ipsam nostrum reprehenderit ad illo sed officiis ea tempore! Similique eos minima sit porro, ratione aspernatur!",
+     "search": "Search Product",
+     "sort1": "Select Category",
+     "sort2": "Select Company",
+     "sort3": "Sort by",
+     "login": "Sign in / Guest ",
+      "register": "Create Account",
+      "searchInput": "Search",
+      "reset": "Reset"
+
+    }
+  },
+  "uz": {
+    "translation": {
+      "home": "Asosiy",
+      "about": "Biz haqimizda",
+      "products": "Mahsulotlar",
+      "cart": "Savat",
+      "title": "Biz odamlarning xarid qilish uslubini o'zgartirmoqdamiz",
+      "desc": "Mijozning o'zi, mijoz kompaniyaning adipissingini davom ettirishi mumkin bo'ladi. Vaqt o'tishi bilan bu bizni qaytarishini tushuntiraman, chunki biz yanada og'irroq yoki ko'r vaqtlarga chidashda davom etamiz",
+      "button":"Bizning maxsulotlar",
+      "selected" : "Tanlangan mahsulotlar",
+      "comfy": "qulaylikni",
+      "love": "Biz  yoqtiramiz",
+      "aboutDesc": "Mijoz uchun adipissing jarayoniga e'tibor berish juda muhimdir. Hayotning erkalash, dard rohatlariga bo'lmaydi, chunki tanlash yoki! Bunga chidab, u bizni buning uchun qoraladi, lekin o'sha paytdagi vazifalari uchun! Xuddi shunday, u eng kichigi bo'lsin, u aqlga sig'maydi!",
+      "search": "Maxsulotni qidirish",
+      "sort1": "Turkumni tanlang",
+      "sort2": "Kompaniyani tanlang",
+      "sort3": "Tarib bo'yicha",
+      "login": "Kirish / Mehmon bo'lish",
+      "register": "Ro'yhatdan o'tish",
+      "searchInput": "Qidiruv",
+      "reset": "Tozalash"
+    }
+  }
+}
