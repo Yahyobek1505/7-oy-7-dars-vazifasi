@@ -12,7 +12,7 @@ function Main() {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(false);
   const { t, i18n } = useTranslation();
-  const [lang, setLang] = useState("uz");
+  const [lang, setLang] = useState("en");
   function handleChange(e) {
     setLang(e.target.value);
     i18n.changeLanguage(e.target.value);
