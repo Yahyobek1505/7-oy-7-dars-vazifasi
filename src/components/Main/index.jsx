@@ -53,14 +53,14 @@ function Main() {
         <div className=" col-7 gap-2 items-center">
           <div>
             <h1 className="max-w-2xl text-4xl font-bold tracking-tight sm:text-6xl">
-            {t("title")}
+            We are changing the way people shop
             </h1>
             <p className="mt-8 max-w-xl text-lg leading-8">
-              {t("desc")}
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore repellat explicabo enim soluta temporibus asperiores aut obcaecati perferendis porro nobis
             </p>
             <div className="mt-10">
               <NavLink className="btn btn-primary dark:bg-[#ff7ac6] dark:text-black" to="/products">
-                {t("button")}
+                OUR PRODUCTS
               </NavLink>
             </div>
           </div>
