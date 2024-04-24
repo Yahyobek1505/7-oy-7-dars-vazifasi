@@ -22,28 +22,5 @@
       "reset": "Reset"
 
     }
-  },
-  "uz": {
-    "translation": {
-      "home": "Asosiy",
-      "about": "Biz haqimizda",
-      "products": "Mahsulotlar",
-      "cart": "Savat",
-      "title": "Biz odamlarning xarid qilish uslubini o'zgartirmoqdamiz",
-      "desc": "Mijozning o'zi, mijoz kompaniyaning adipissingini davom ettirishi mumkin bo'ladi. Vaqt o'tishi bilan bu bizni qaytarishini tushuntiraman, chunki biz yanada og'irroq yoki ko'r vaqtlarga chidashda davom etamiz",
-      "button":"Bizning maxsulotlar",
-      "selected" : "Tanlangan mahsulotlar",
-      "comfy": "qulaylikni",
-      "love": "Biz  yoqtiramiz",
-      "aboutDesc": "Mijoz uchun adipissing jarayoniga e'tibor berish juda muhimdir. Hayotning erkalash, dard rohatlariga bo'lmaydi, chunki tanlash yoki! Bunga chidab, u bizni buning uchun qoraladi, lekin o'sha paytdagi vazifalari uchun! Xuddi shunday, u eng kichigi bo'lsin, u aqlga sig'maydi!",
-      "search": "Maxsulotni qidirish",
-      "sort1": "Turkumni tanlang",
-      "sort2": "Kompaniyani tanlang",
-      "sort3": "Tarib bo'yicha",
-      "login": "Kirish / Mehmon bo'lish",
-      "register": "Ro'yhatdan o'tish",
-      "searchInput": "Qidiruv",
-      "reset": "Tozalash"
-    }
   }
-}
+  }
