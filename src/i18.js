@@ -5,7 +5,7 @@ i18n
   .use(initReactI18next) 
   .init({
     resources,
-    lng: "uz",
+    lng: "en",
 
     interpolation: {
       escapeValue: false 
